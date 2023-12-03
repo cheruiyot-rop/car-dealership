@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+}
+
+.header{
+    color: white;
+    text-decoration: underline;
+}
+
+.paragraph{
+    color: white;
+}
